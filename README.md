@@ -2,4 +2,4 @@
 our UASTrack for uav tracking.
 
 
-The code will be open-sourced soon.
+The code will be released soon.
